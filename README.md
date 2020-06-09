@@ -8,8 +8,8 @@
 ```
 
 2. 效果
-![demo1](https://github.com/ouhaohan8023/vue-blog/demo_1.png)
-![demo2](https://github.com/ouhaohan8023/vue-blog/demo_2.png)
+![demo1](https://raw.githubusercontent.com/ouhaohan8023/vue-blog/master/demo_1.png)
+![demo2](https://raw.githubusercontent.com/ouhaohan8023/vue-blog/master/demo_2.png)
 
 
 3. 需要搭配PHP项目使用，PHP项目传送门

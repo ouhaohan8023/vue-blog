@@ -13,7 +13,7 @@ import {
 
 let config = {
 	// baseURL: process.env.baseURL || process.env.apiUrl || ""
-	baseURL: "http://vue-blog.test/api",
+	baseURL: "/api",
 	timeout: 60 * 1000, // Timeout
 	// withCredentials: true, // Check cross-site Access-Control
 };
